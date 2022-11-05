@@ -1,6 +1,8 @@
 # ZX81-graphics-library
 A fast low-res 2D and 3D graphics library for the ZX81
 
+Turorial available: https://youtu.be/0xKpHLAsj_s
+
 p-files can be loaded staight into the EightyOne emulator (select 16K ram)<br><br>
 You will need to install the TASM assembler: https://www.cpcalive.com/docs/TASMMAN.HTM  if you want to compile them yourself. I am running TASM Version 3.2 September, 2001, on Windows 11.<br><br>
 More instructions/information on YouTube: https://www.youtube.com/watch?v=WdxYtohtGwU     https://www.youtube.com/channel/UCBJW21wzy1UkwkD2JqefzVg<br><br>
