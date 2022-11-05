@@ -5,7 +5,7 @@ Turorial available: https://youtu.be/0xKpHLAsj_s
 
 p-files can be loaded staight into the EightyOne emulator (select 16K ram)<br><br>
 You will need to install the TASM assembler: https://www.cpcalive.com/docs/TASMMAN.HTM  if you want to compile them yourself. I am running TASM Version 3.2 September, 2001, on Windows 11.<br><br>
-More instructions/information on YouTube: https://www.youtube.com/watch?v=WdxYtohtGwU     https://www.youtube.com/channel/UCBJW21wzy1UkwkD2JqefzVg<br><br>
+General instructions/information getting started with assembler on the ZX81: https://www.youtube.com/watch?v=WdxYtohtGwU     https://www.youtube.com/channel/UCBJW21wzy1UkwkD2JqefzVg<br><br>
 
 I've not put many comments in the code, but I'm happy to answer questions in YouTube comments 
 
