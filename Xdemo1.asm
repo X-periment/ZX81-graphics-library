@@ -1,6 +1,6 @@
 ; Written by Xperiment, Nov 2022. Turorial available: https://youtu.be/0xKpHLAsj_s
 
-; all the includes came from  https://www.sinclairzxworld.com/viewtopic.php?t=2186&start=40 via ByteForever
+; first 5 includes came from  https://www.sinclairzxworld.com/viewtopic.php?t=2186&start=40 via ByteForever
 
 #include "zx81defs.asm"
 #include "zx81rom.asm"
